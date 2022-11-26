@@ -2337,4 +2337,7 @@ input[type=email]:focus, input[type=password]:focus, input[type=text]:focus, inp
   font-size: 20px;
   color: #555;
 }
+blockquote {
+  border-left: 0px;
+}
 /*# sourceMappingURL=style.css.map */
